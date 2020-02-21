@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>hangar.kml</name>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>hangar</name>
+		<open>1</open>
+		<Placemark>
+			<name>Hangar4</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.184506837341759,50.64941872012333,4.999999999999999 -1.184322384882083,50.64944243224346,4.999999999999999 -1.184353380879092,50.6495377099832,4.999999999999999 -1.184534824876748,50.64951533565591,4.999999999999999 -1.184506837341759,50.64941872012333,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hangar3</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.184707422797194,50.64939330332956,4.999999999999999 -1.184525819969609,50.64941708343792,4.999999999999999 -1.184558505366747,50.64951235450499,4.999999999999999 -1.184742023718552,50.64948945716443,4.999999999999999 -1.184707422797194,50.64939330332956,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hangar2</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.184910192350013,50.64936826471068,4.999999999999999 -1.184727297217484,50.64939317934088,4.999999999999999 -1.184758792215803,50.64948597266557,4.999999999999999 -1.184943689811477,50.64946317267537,4.999999999999999 -1.184910192350013,50.64936826471068,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hangar1</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.185107900350774,50.64934340326209,4.999999999999999 -1.184932625693396,50.64936467859987,4.999999999999999 -1.184967766046923,50.64946105337474,4.999999999999999 -1.185145237793321,50.64943978344649,4.999999999999999 -1.185107900350774,50.64934340326209,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hangar7</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.185352675451022,50.64882010642151,4 -1.185164614891178,50.64893733375987,4 -1.185340013545129,50.64905782591148,4 -1.185537419436222,50.6489402525253,4 -1.185352675451022,50.64882010642151,4 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hangar5</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.184716267189363,50.64839794736307,3.5 -1.184524690457575,50.64851402665692,3.5 -1.184706492655041,50.64863370610562,3.5 -1.184903475176156,50.64851734040584,3.5 -1.184716267189363,50.64839794736307,3.5 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Building5</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.183533511538064,50.65330673264386,6 -1.183852552768698,50.65351716969563,6 -1.184127262270395,50.65334259769813,6 -1.183809592280272,50.65313428077152,6 -1.183533511538064,50.65330673264386,6 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hangar6</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.184927494678213,50.6485331079662,4 -1.184733772312544,50.64865353319057,4 -1.185087279918582,50.64888617078429,4 -1.185289443148538,50.6487695860946,4 -1.184927494678213,50.6485331079662,4 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
